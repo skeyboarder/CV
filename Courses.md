@@ -2,9 +2,9 @@
 
 ## Data Visualisation
 
--2021
--Kaggle
--Visualization basics on seaborn
+- 2021
+- Kaggle
+- Visualization basics on seaborn
 
 ## Supervised Learning
 
@@ -23,9 +23,9 @@
 
 ## EPAM Data Science Training
 
--2021
--EPAM
--Basics of Data Science with mentors from EPAM and their best prac-
+- 2021
+- EPAM
+- Basics of Data Science with mentors from EPAM and their best prac-
 tices
 
 
@@ -37,9 +37,9 @@ tices
 
 ## Data Analysis Course
 
--2020
--SPBSU & Computer Science Center
--Introduction course about main concepts of Data Analysis and ML
+- 2020
+- SPBSU & Computer Science Center
+- Introduction course about main concepts of Data Analysis and ML
 # Books
 
 
